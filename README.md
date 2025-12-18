@@ -137,8 +137,8 @@ ClinicHubDoctorReservation/
 ✨ Clone the repo and set it up locally:  
 
 ```bash
-git clone https://github.com/mohammedRaafatt/Clinic-Hub.git
-cd Clinic-Hub
+git clone https://github.com/mohammedRaafatt/ClinicHub-Doctor-Reservation.git
+cd ClinicHub-Doctor-Reservation
 ```
 
 ### Prerequisites  
